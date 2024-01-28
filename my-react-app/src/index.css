@@ -1,1 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@100&family=Josefin+Sans&family=Poppins&family=Roboto:ital,wght@1,500&family=Rubik&display=swap");
+
+:root {
+  --first-color: hs1(353, 100%, 65%);
+  --title-color: hs1(244, 24%, 26%);
+  --text-color: hs1(244, 16%, 43%);
+  --body-color: hs1(258, 60%, 98%);
+  --container-color: #fff;
+
+  body {
+    font-family: "Bebas Neue", sans-serif;
+  }
+}
