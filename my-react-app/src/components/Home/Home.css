@@ -44,3 +44,19 @@
 .home__scroll-name {
   font-size: var (--small-font-size);
 }
+.mouse {
+  border: 2px solid black;
+  display: block;
+  height: 1.6rem;
+  width: 1.25rem;
+  margin: auto;
+  margin-top: 0.75rem;
+  border-radius: 1rem;
+  position: relative;
+}
+.shapes {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+}
