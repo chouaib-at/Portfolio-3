@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css";
-import Me from "C:HYFportfolio-3Portfolio-3my-react-appsrcassetsavatar-1.svg";
+import Me from "my-react-app/src/assets/images/avatar-1.svg";
 import HeaderSocials from "./HeaderSocials";
 import ScrollDown from "../Home/ScrollDown";
 // import Shapes from "../Home/Shapes";
